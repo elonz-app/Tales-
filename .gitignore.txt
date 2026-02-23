@@ -1,4 +1,0 @@
-PORT=3000
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/tales_game
-JWT_SECRET=your-super-secret-jwt-key-change-this
-NODE_ENV=production
