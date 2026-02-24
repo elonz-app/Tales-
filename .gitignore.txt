@@ -1,0 +1,3 @@
+MONGODB_URI=mongodb+srv://tales:game123@cluster0.r0nqh.mongodb.net/tales_game?retryWrites=true&w=majority
+JWT_SECRET=your-super-secret-jwt-key-256
+PORT=3000
